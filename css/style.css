@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-color: rgb(230, 248, 202);
+}
+
+.heading {
+    text-align: center;
+}
+
+.retsept-heading {
+    color: darkolivegreen;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5rem;
+}
+
+.foto {
+    text-align: center;
+}
+
+.heading2 {
+text-align: center;
+color: blueviolet;
+}
+
+.ingredients {
+    text-align: center;
+    border: 1px solid black;
+    width: 20%;
+    margin: 0 auto;
+    color: blueviolet;
+}
+
+.instructions {
+    color: grey;
+}
+
+.footer {
+    text-align: center;
+}
